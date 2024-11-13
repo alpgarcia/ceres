@@ -3,7 +3,7 @@ elasticsearch==5.5.1
 elasticsearch-dsl==5.3.0
 grimoirelab-toolkit==0.1.8
 grimoire-elk==0.30.13
-numpy==1.12.1
+numpy==1.22.0
 pandas==0.19.2
 python-dateutil==2.6.0
 pytz==2016.10
